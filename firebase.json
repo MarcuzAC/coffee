@@ -1,1 +1,25 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"mzunichatroom","appId":"1:386172871656:android:f0cdac9c951be164803a5d","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"mzunichatroom","configurations":{"android":"1:386172871656:android:f0cdac9c951be164803a5d","ios":"1:386172871656:ios:da2567ad716e1a58803a5d","macos":"1:386172871656:ios:da2567ad716e1a58803a5d","web":"1:386172871656:web:c6caf627cf66d2e2803a5d","windows":"1:386172871656:web:0b2c3a0b77af4cc0803a5d"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "mzunichatroom",
+          "appId": "1:386172871656:android:f0cdac9c951be164803a5d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "mzunichatroom",
+          "configurations": {
+            "android": "1:386172871656:android:f0cdac9c951be164803a5d",
+            "ios": "1:386172871656:ios:da2567ad716e1a58803a5d",
+            "macos": "1:386172871656:ios:da2567ad716e1a58803a5d",
+            "web": "1:386172871656:web:c6caf627cf66d2e2803a5d",
+            "windows": "1:386172871656:web:0b2c3a0b77af4cc0803a5d"
+          }
+        }
+      }
+    }
+  }
+}
