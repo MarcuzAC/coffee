@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386172871656",
+    "project_id": "mzunichatroom",
+    "storage_bucket": "mzunichatroom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386172871656:android:f0cdac9c951be164803a5d",
+        "android_client_info": {
+          "package_name": "com.example.coffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqGtn4BWNzjFYgL7TcwwKDwjx-5VCIt7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
