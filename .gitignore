@@ -45,3 +45,4 @@ app.*.map.json
 # Ignore the .env file containing sensitive Firebase configuration
 .env
 google-services.json
+firebase.json
